@@ -103,3 +103,5 @@ Tools CI/CD yang umum digunakan antara lain:
     •	GitLab CI/CD: GitLab CI/CD adalah alat CI/CD yang terintegrasi dengan GitLab.
     •	CircleCI: CircleCI adalah alat CI/CD berbayar.
 
+NO 7
+https://rakhaputra2910.github.io/uas-3-web/
